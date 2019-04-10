@@ -47,7 +47,7 @@
   "dependencies": {
     "ember-cli-babel": "^6.6.0",
     "ember-cli-htmlbars": "^2.0.1",
-    "ember-select-list": "^0.9.5",
+    "ember-select-list": "git://github.com/aboveproperty/ember-select-list.git",
     "xlsx": "^0.9.0"
   },
   "ember-addon": {
